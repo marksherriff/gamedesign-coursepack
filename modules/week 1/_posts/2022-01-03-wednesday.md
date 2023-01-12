@@ -1,0 +1,50 @@
+---
+title: Wednesday, May 25
+---
+
+# Wednesday, May 25
+
+## Before Class
+
+__Reading:__ Fullerton, Ch. 1 and [MDA Paper](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)    
+__Video:__ EC: Aesthetics of Play
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/uepAJ-rqJKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Lecture Notes
+
+We will start by finishing up the game design activity from Tuesday.
+
+* Mental models
+* Simplicity of rules
+* What needed clarification?
+
+Then we’ll discuss Mechanics / Dynamics / Aesthetics. Make sure to have read the MDA paper on the schedule and watched the EC video that goes along with today!
+
+What are the aspects of aesthetics? What sort of game should you make? What do you love?
+
+Why do we discuss games in the terms of genres as we do? Consider how we discuss genres in music and movies. Is it the same?
+
+Consider the MDA ideas in the context of what we have been discussing as to what is a game:
+
+* Mechanics - rules and systems
+* Dynamics - experiential play
+* Aesthetics - underlying emotive reasons for playing
+
+Is there a reason we should categorize by mechanics? (some mechanics easier/more approachable than others)
+
+Let’s consider what aesthetics we might go for in our games. How many aesthetics do we want?
+
+* Sense Pleasure – stimulates senses / play it for the graphics or audio – Ex. Rez, Child of Eden
+* Fantasy – can do something that you can’t do in real live – Ex. COD, NFL, Rock Band
+* Narrative – game as drama, stories – Ex. Final Fantasy, Sims, Mass effect
+* Challenge – game as obstacle course – Ex. Any game with arbitrary unnecessary obstacles, such as Mario games
+* Fellowship – working together – Ex. WoW, Team Fortress 2, Journey
+* Competition – games as dominance – Ex. all fighting games, StarCraft, League of Legends
+* Discovery – uncover the new – Ex. Skyrim, Minecraft, Guild Wars 2, Dark Cloud
+* Expression – being creative – Ex. Minecraft, SimCity
+* Abnegation – game as past time / tune out gaming, grinding – Ex. Bejeweled, Tetris, Jetpack Joyride, endless runners
+
+MDA shows us the second-order design challenge as software engineers.
+
+Consider spawn camping as an example of mechanic into dynamic and emergent game play. What aesthetics does this create?
