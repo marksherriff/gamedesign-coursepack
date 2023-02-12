@@ -2,7 +2,7 @@
 title: World Building
 ---
 
-# Action vs. Interaction
+# World Building
 
 __Slide Deck:__ [World Building](https://docs.google.com/presentation/d/1aj2_lFenyMQBc-mvCDko9vMbZ7WTyV-77J3BCdRfcuM/edit?usp=sharing)
 
