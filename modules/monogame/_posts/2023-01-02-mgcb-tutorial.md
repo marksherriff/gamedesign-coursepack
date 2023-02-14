@@ -15,6 +15,8 @@ All needed images and assets for this tutorial can be found at [http://www.cs473
 
 ## MGCB
 Expand the file tree under Content on the sidebar to reveal `Content.mgcb`. This is the MonoGame Content Builder ["MGCB"]. It takes visual and audio media and converts them so that MonoGame can utilize them.
+
+![MGCB Editor](/img/mgcb-tutorial/1.png)
  
 Right click on `Content.mgcb` and select "Open With…" 
 * Windows Users: 
@@ -30,6 +32,11 @@ Right click on `Content.mgcb` and select "Open With…"
 -- Then Build -> Build. 
 -- It should complete with no errors. When this has finished, you may close the MGCB.
 
+![MGCB Editor](/img/mgcb-tutorial/2.png)
+
+![MGCB Editor](/img/mgcb-tutorial/3.png)
+
+![MGCB Editor](/img/mgcb-tutorial/5.png)
 
 ## Draw
 In `Game1.cs`, we need to initialize, load, and then draw the new background. To do so, first initialize the background as a `Texture2D` in the `Game1` class below the `GraphicsDeviceManager` and `SpriteBatch`.
@@ -47,7 +54,9 @@ Next, load the content which takes place conveniently enough in the LoadContent(
 background = Content.Load<Texture2D>("Gray");
 ```
 
-Here, background matches what was initialized, and "Gray" matches what the file is named in the MGCB (it automatically assumes the file extension is .mgcb)
+Here, background matches what was initialized, and "Gray" matches what the file is named in the MGCB (it automatically assumes the file extension is .mgcb).
+
+![MGCB Editor](/img/mgcb-tutorial/6.png)
 
 Next, in the Draw() method, add the following:
 ```
@@ -77,6 +86,8 @@ for (int i = 0; i <= xrepeats; i++) {
 }
 ```
 We can access `Textures'` properties, like their width and height, directly instead of trying to determine it ourselves.
+
+![MGCB Editor](/img/mgcb-tutorial/7.png)
  
 Now load in a playable character. In MGCB, choose your character from among the four provided, select their RunRight (32x32) image, and select re-build this time (this checks to make sure that everything that’s supposed to be in the folder is still in the folder.) Follow the same code as before as to initializing, loading, and drawing the sprite at location (0,448). 
 
