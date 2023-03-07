@@ -4,8 +4,7 @@ title: A Brief History of Video Games
 
 # A Brief History of Video Games
 
-__Slide Deck__    
-[A Brief History of Video Games](https://docs.google.com/presentation/d/1fHoXWE20f4ar0MoVJX53_1qw9mbrLK-Z8kgh9RDwDLA/edit?usp=sharing)
+__Slide Deck:__ [A Brief History of Video Games](https://docs.google.com/presentation/d/1fHoXWE20f4ar0MoVJX53_1qw9mbrLK-Z8kgh9RDwDLA/edit?usp=sharing)
 
 # Of Course It Plays Games...
 
