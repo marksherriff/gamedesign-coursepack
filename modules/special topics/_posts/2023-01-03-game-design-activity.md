@@ -8,7 +8,7 @@ __Video:__ Extra Credits: What is a Game?
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/blj91KLOvZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> __Handout:__ [Game Design Activity (PDF)](/materials/GameDesignActivity.pdf)
+> __Handout:__ [Game Design Activity (PDF)](/assets/materials/GameDesignActivity.pdf)
 
 # Making a Game
 
